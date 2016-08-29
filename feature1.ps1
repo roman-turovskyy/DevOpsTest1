@@ -1,1 +1,1 @@
-Writw-Host "feature1"
+Writw-Host "feature1" -fore Green
